@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    margin-top: 3%;
+}
+
+input {
+    font-size: 34px;
+    height: 65px;
+    border: 3px solid black;
+    border-radius: 18px;
+}
+
+table {
+    margin: auto;
+}
+
+button {
+    font-size: 40px;
+    background-color: #fde380;
+    height: 65px;
+    width: 100px;
+    margin: 4%;
+    border-radius: 20px;
+}
+
+.delete {
+    width: 200%;
+}
+
+.calculator {
+    display: inline-block;
+    background: #eeb4b4;
+    border: 3px solid #996d94;
+    padding: 20px;
+    border-radius: 45px;
+}
